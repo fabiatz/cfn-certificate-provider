@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/binxio/cfn-certificate-provider) 
+
 # Custom Certificate Provider with DNS validation support
 AWS Certificate Manager is a great service that allows the creation and renewal of certificates
 to be automated. It provides two ways of validating a certificate request: through email and through DNS.
